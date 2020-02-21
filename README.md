@@ -3,15 +3,14 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 
 Grupo: DIU2.  Curso: 2019/20 
 
-Proyecto: 
+Proyecto: Plataformas de economía colaborativa. Experiencias de compartir alojamiento.
 
-Descripción: 
+Descripción: estudio de varias plataformas de economía colaborativa (Web y App's) sobre diferentes modelos de negocio, en este caso abarcaremos experiencias de compartir alojamiento.
 
 Logotipo: 
 
 Miembros
- * :bust_in_silhouette:   Miguel Ángel Campos Cubillas     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Miguel Ángel Campos Cubillas     :octocat:
 
 ----- 
 
@@ -31,6 +30,19 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 -----
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+
+- Aplicaciones/Web revisadas:
+  - Badi: web que permite tanto a particulares como profesionales ofertar servicios de alquiler de habitaciones. Su principal característica es el diseño minimalista y al mismo tiempo cubrir todas las necesidades del usuario en cuanto a información y disponibilidad de cada alojamiento.
+
+  - Habitoom: web que al igual que badi permite soporte tanto a la persona/as que rentan el alojamiento como a los que lo ofrecen. Sin embargo su principal diferencia radica en el diseño arcaico y desordenado de las opciones e información sobre el alquiler. Dificulta la experiencia de usuario a la hora de encontrar un alojamiento acorde a lo que el usuario busca.
+
+  - CoachSurfing Travel: web con un aspecto más enfocado a alojamientos temporales asociados a viajes. Su apariencia y opciones se generan alrededor de un entorno muy social, lo cual en mi opinion dificulta el proceso de búsqueda, lo cual es el principal objetivo a la hora de utilizar uno de estos servicios web.
+
+  - ComparteTuPiso: web que da un soporte muy similar al de badi complementandolo con un caracter social que implica una conexión extra con otras personas que también se encuentran buscando piso o compañeros de piso para completar su alquiler. Por otra parte, está enfocado tanto en alquileres de cortos periodos de tiempo como alquileres más duraderos.
+
+Algunas de ellas como Badi tiene aplicación movil, de hecho su página web sigue un diseño muy similar a aplicaciones moviles con bastante concurrencia de público, debido a su caracter directo y minimalista.
+
+Finalmente, tras analizar esas cuatro webs y los servicios que ofrecen, he elegido autoasignarme la web Badi, pues es la que me genera más interés en cuanto a su nicho de mercado y la manera en la que implementa sus servicios. En mi opinión pone a disposicion del cliente todo lo que este necesita para poder tomar una decisión acertada a la hora de buscar un alojamiento, pues su interfaz es minimalista a la vez que bonita y permite acceder a diversas opciones sin tener que pelearse con la propia interfaz. Le veo un gran potencial frente a un gran rango de público, puesto que el resto de webs tenían ciertas carencias en ese aspecto a pesar de cumplir generalmente con su cometido de ofertar y dar acceso a los clientes.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
