@@ -19,19 +19,17 @@ En esta práctica estudiaremos un caso de plataforma de economía colaborativa y
 
 Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
 
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online.
-
-
 # Proceso de Diseño
 
 ## Paso 1. UX Desk Research & Analisis
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
+Las aplicaciones seleccionadas en este proceso de análisis de competencia se basan en plataformas que hacen de intermediario entre un usuarios que solicitan rentar alojamientos y usuarios que requieren alquilar sus propios bienes.
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres)
+Basan su sistema en un portal de búsqueda por filtros (de búsqueda), lo cuál permite a los usuarios encontrar sus alojamientos según preferencias personales.
 
-[Análisis de Competencia](P1/README.md)
+[[Mostrar más sobre el: Análisis de Competencia]](P1/README.md)
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
