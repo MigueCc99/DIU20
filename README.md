@@ -33,16 +33,15 @@ Basan su sistema en un portal de búsqueda por filtros (de búsqueda), lo cuál 
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
+Durante el proceso de creación de las personas, he decidido tomar la iniciativa de crear dos perfiles humanos muy divergentes con el motivo de poder explorar por experiencias de usuario desafiantes para el sistema.
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
-
-En este punto de la práctica he escogido dos modelos de personas muy opuestos, con el motivo de examinar experiencias de usuario diagonalmente distintas. Por un lado tenemos a "Jose Luis", se trata de la primera persona, en este caso he optado por un caballero de 54 años que vive apartado del mundo tecnológico y brega con el diariamente. Por otra parte tenemos a la segunda persona llamada "Julia". Esta chica en cambio se encuentra muy cómoda con la tecnología, de hecho forma parte de ella a nivel profesional.
-
+###### JOSE LUÍS TORRES
 ![Método UX](P1/p1_jose_luis_torres.png)
+[[Ver más sobre: Jose Luís]](P1/p1_jose_luis_torres.png)
 
-
-
+###### JULIA RODRIGUEZ
 ![Método UX](P1/p2_julia_rodriguez.png)
+[[Ver más sobre: Julia]](P1/p2_julia_rodriguez.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
