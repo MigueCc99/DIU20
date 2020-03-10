@@ -38,7 +38,7 @@ angular.module("angular", [])
 				Quote: "Honor y respeto",
 				Age: 54,
 				Occupation: "Empresario Autónomo.",
-				Family: "Divorciado.",
+				Family: "Divorciado .",
 				Location: "Almería (capital).",
 				Character: "Trabajador y luchador.",
 				PersonalityTraits: [
@@ -47,9 +47,9 @@ angular.module("angular", [])
 					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 1 },
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 2 }
 				],
-				Goals: ["Disfrutar de la naturaleza.", "Volver a sentirse joven.", "Salir de la rutina y explorar nuevos entornos.", "Formar una familia.", "Retomar el contacto con sus amigos de la juventud."],
-				Frustrations: ["Tiene muchas dificultades con la tecnología y los aparatos electrónicos, le gustaría revertir la situación.", "Vida monótona llena de rutina insufrible.", "Estrés a causa de las largas horas de trabajo para mantener la empresa."],
-				Bio: "Es de Modril y vino a Granada para estudiar administración de empresas, pero no ha tenido grandes oportunidades de trabajo. LLeva 2 años contratado en la empresa actual. Aqui ha hecho buenos amigo en el trabajo y normalmente ser reunen para fiestas y a veces organizan viajes.",
+				Goals: ["Ampliar el ámbito de su negocio y darlo a conocer en el plano internacional.", "Explorar nuevas aventuras y salir de la rutina de trabajo.", "Encontrar a una mujer con la que formar una familia.", "Ayudar a su madre con el cuidado de su padre enfermo.", "Conocer a nuevas personas que le aporten tanto en el entorno personal como profesional.", "Ponerse en forma y cuidar su alimentación. En definitiva, cuidar de su salud."],
+				Frustrations: ["Vida monótona llena de rutina insufrible.", "Estrés a causa de las largas horas de trabajo para mantener la empresa.", "Sufre por no poder darle la atención que le gustaría a sus padres.", "Siempre ha soñado con formar una pareja y ha dejado de creer en el amor.", "Su empresa se encuentra estancada y le frustra el hecho de ver que el trabajo que aporta no mejora la situación.", "Le gustaría haber estudiado ADE para haber podido gestionar mejor desde un principio su empresa"],
+				Bio: "Es un hombre nacido en Huércal de Almería, con la edad de 19 años se independizó y se fué a vivir a Almería capital, donde empezó a crear una empresa de logística junto con su hermano mayor. Más adelante comenzó a estudiar cursos de administración de empresas para mejorar en el ámbito del desarrollo de la administración de su propia empresa y en la actualidad se encuentra en desarrollo de la misma a nivel nacional-internacional.Por otra parte, se divorció hace unos meses de la mujer que consideraba el amor de su vida. Tras esto ha intentado rehacer su vida entorno a sus antiguos amigos y familia. Jose se encuentra en un momento de introspección personal y busca nuevas aventuras, quiere crecer como persona.",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 2 },
 					{ Name: "Movil", Value: 2 },
@@ -57,7 +57,7 @@ angular.module("angular", [])
 					{ Name: "Software", Value: 2 }
 
 				],
-                Contextos: "LLeva un tiempo preocupado y quiere desconectar Le gustaría dar una sorpresa a sus amigos para las vacaciones.",
+                Contextos: "Se encuentra abrumado y saturado por sus problemas personales y profesionales y necesita desconectar. Para ello tiene en mente viajar junto con un grupo de amigos de Huercal a Madrid y pasar la semana santa de manera 'juvenil' al igual que hacían cuando eran más jóvenes. Planean ir de fiesta y de ocio por la capital para olvidar las preocupaciones de sus responsabilidades diarias y sufrir un rejuvenecimiento psicológico.",
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional", Value: 4 },
 					{ Name: "Online & Social Media", Value: 1 },
