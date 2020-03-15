@@ -48,12 +48,12 @@ Durante el proceso de creación de las personas, he decidido tomar la iniciativa
 Estas experiencias de usuario han sido escogidas puesto que cumplen con similitudes en cuanto a problemas comunes a la hora de gestionar acciones en entornos como el que nos disponemos a analizar, pero desde puntos de vista muy distantes en cuanto a uso de la tecnología se refiere.
 
 ###### EXPERIENCIA DE USUARIO 1 (JOSE LUÍS TORRES)
-![Método UX](P1/jm1_jose_luis_torres.png)
-[[Ver más sobre: Experiencia de Usuario 1]](P1/jm1_jose_luis_torres.png)
+![Método UX](P1/jm1_jose_luis_torres.PNG)
+[[Ver más sobre: Experiencia de Usuario 1]](P1/jm1_jose_luis_torres.PNG)
 
-######EXPERIENCIA DE USUARIO 2 (JULIA RODRIGUEZ)
-![Método UX](P1/jm2_julia_rodriguez.png)
-[[Ver más sobre: Experiencia de Usuario 2]](P1/jm2_julia_rodriguez.png)
+###### EXPERIENCIA DE USUARIO 2 (JULIA RODRIGUEZ)
+![Método UX](P1/jm2_julia_rodriguez.PNG)
+[[Ver más sobre: Experiencia de Usuario 2]](P1/jm2_julia_rodriguez.PNG)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
