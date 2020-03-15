@@ -57,13 +57,15 @@ Estas experiencias de usuario han sido escogidas puesto que cumplen con similitu
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf)
->>> - Valoración final (numérica):
->>> - Comentario sobre la valoración:  (60-120 caracteres)
-
-
+### Revisión de usabilidad:
+ 
+#### Enlace al documento:  (sube a github el xls/pdf)
+[[Documento de revisión de usabilidad](P1/Usability-review-template.xls)
+#### Valoración final (numérica): 
+>>> - 76
+#### Comentario sobre la valoración:  (60-120 caracteres)
+Según la valoración de la revisión de usabilidad podemos determinar que estamos ante un sistema que cumple correctamente con sus requerimientos principales. Tal es así que podría llegar a satisfacer a amplia gama de usuarios, sin embargo, tiene puntos importantes a mejorar.
+[[Ver más](P1/README.md)
 ## Paso 2. UX Design
 
 
