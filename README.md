@@ -45,9 +45,15 @@ Durante el proceso de creación de las personas, he decidido tomar la iniciativa
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
+Estas experiencias de usuario han sido escogidas puesto que cumplen con similitudes en cuanto a problemas comunes a la hora de gestionar acciones en entornos como el que nos disponemos a analizar, pero desde puntos de vista muy distantes en cuanto a uso de la tecnología se refiere.
 
+###### EXPERIENCIA DE USUARIO 1 (JOSE LUÍS TORRES)
+![Método UX](P1/jm1_jose_luis_torres.png)
+[[Ver más sobre: Experiencia de Usuario 1]](P1/jm1_jose_luis_torres.png)
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres)
+######EXPERIENCIA DE USUARIO 2 (JULIA RODRIGUEZ)
+![Método UX](P1/jm2_julia_rodriguez.png)
+[[Ver más sobre: Experiencia de Usuario 2]](P1/jm2_julia_rodriguez.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
