@@ -71,21 +71,11 @@ Según la valoración de la revisión de usabilidad podemos determinar que estam
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
+- FeedBackCaptureGrid
+[[FeedBack Capture Grid]](P2/FeedBackCaptureGrid.pdf)
 
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas
-| ------------- | -------
-  Preguntas | Nuevas ideas
-
-
-
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+- Propuesta de Valor:
+  - La propuesta de valor que propongo para nuestro proyecto es crear un entorno minimalista y conciso con gran adaptabilidad tanto para nuevos usuarios como experimentados. Además de esto generar un sitema de feedback entre los componentes del sistema. Esto se consigue conectando desde los stakeholders del sistema hasta los visitantes (usuarios no registrados) del mismo.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap
 -----
