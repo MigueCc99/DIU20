@@ -70,7 +70,6 @@ Según la valoración de la revisión de usabilidad podemos determinar que estam
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
-- FeedBackCaptureGrid
 ![Método UX](P2/Herramientas/FeedBackCaptureGrid.png)
 [[FeedBack Capture Grid]](P2/FeedBackCaptureGrid.pdf)
 
