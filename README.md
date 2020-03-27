@@ -71,9 +71,10 @@ Según la valoración de la revisión de usabilidad podemos determinar que estam
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 ![Método UX](P2/Herramientas/FeedBackCaptureGrid.png)
+
 [[FeedBack Capture Grid]](P2/FeedBackCaptureGrid.pdf)
 
-- Propuesta de Valor:
+- Propuesta de Valor :
   - La propuesta de valor que propongo para nuestro proyecto es crear un entorno minimalista y conciso con gran adaptabilidad tanto para nuevos usuarios como experimentados. Además de esto generar un sitema de feedback entre los componentes del sistema. Esto se consigue conectando desde los stakeholders del sistema hasta los visitantes (usuarios no registrados) del mismo.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap
