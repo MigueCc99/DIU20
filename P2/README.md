@@ -18,7 +18,9 @@
 
   ![Método UX](Herramientas/FeedBackCaptureGrid.png)
 
-    **PROPUESTA DE VALOR**
+  [[FeedBack Capture Grid]](FeedBackCaptureGrid.pdf)
+
+    PROPUESTA DE VALOR
 
     Como propuesta de valor a partir del FeedBackCaptureGrid generaremos una serie de implementaciones en el sistema que iremos desarrollando en posteriores apartados en forma de tareas y arquitectura del diseño. Todas estas modificaciones seguirán un patrón que favorezca el minimalismo del sistema y al mismo tiempo aportar funcionalidades concretas y especificas para guiar al usuario independientemente de su experiencia de manera satisfactoria por la interfaz.
 
