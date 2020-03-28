@@ -79,13 +79,13 @@ Según la valoración de la revisión de usabilidad podemos determinar que estam
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap
 -----
+En fnción a la propuesta de valor
 
 >>> Definir "User Map" y "Task Flow" ...
 
 
 ![Método UX](img/labelling.png) 2.c Labelling
 ----
-
 
 >>> Identificar términos para diálogo con usuario
 
