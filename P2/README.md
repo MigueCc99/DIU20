@@ -20,10 +20,8 @@
 
   [[FeedBack Capture Grid]](FeedBackCaptureGrid.pdf)
 
-    - La propuesta de valor que propongo para nuestro proyecto es crear un entorno minimalista y conciso con gran adaptabilidad tanto para nuevos usuarios como experimentados. Además de esto generar un sitema de feedback entre los componentes del sistema. Esto se consigue conectando desde los stakeholders del sistema hasta los visitantes (usuarios no registrados) del mismo.
-
     **PROPUESTA DE VALOR**
-    
+
     Como propuesta de valor a partir del FeedBackCaptureGrid generaremos una serie de implementaciones en el sistema que iremos desarrollando en posteriores apartados en forma de tareas y arquitectura del diseño. Todas estas modificaciones seguirán un patrón que favorezca el minimalismo del sistema y al mismo tiempo aportar funcionalidades concretas y especificas para guiar al usuario independientemente de su experiencia de manera satisfactoria por la interfaz.
 
     En función de las preguntas de los usuarios generaremos mayor vínculo entre los usuarios que pretenden utilizar el sistema para alquilar inmuebles como los que pretenden gestionar sus propios inmuebles a través de la plataforma. Además de esto, maximizar el aprendizaje de uso de la interfaz de manera sencilla e intuitiva para los mismos. Finalmente satisfacer de manera más completa las inquietudes del visitante/usuario registrado que se proponga alquilar un inmueble, con nuevas opciones que vinculen información relevante sobre el inmueble y alrededores y permitir al interesado elegir con comodidad entre las opciones visibles.
