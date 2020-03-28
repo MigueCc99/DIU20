@@ -18,6 +18,6 @@
   - Preguntas al usuario para mejorar el sistema entorno a las necesidades de los visitantes y usuarios del sistema (a partir de las personas ficticias de la P1).
   - Ideas de mejora (equipo de desarrollo), que tienen más que ver con la parte de la implementación.
 
-  ![Método UX](P2/Herramientas/FeedBackCaptureGrid.png)
+  ![Método UX](Herramientas/FeedBackCaptureGrid.png)
 
   [[FeedBack Capture Grid]](P2/FeedBackCaptureGrid.pdf)
