@@ -20,4 +20,4 @@
 
   ![Método UX](Herramientas/FeedBackCaptureGrid.png)
 
-  [[FeedBack Capture Grid]](P2/FeedBackCaptureGrid.pdf)
+  [[FeedBack Capture Grid]](FeedBackCaptureGrid.pdf)
