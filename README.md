@@ -81,9 +81,9 @@ Según la valoración de la revisión de usabilidad podemos determinar que estam
 -----
 En este punto del desarrollo del diseño, hacemos uso tanto de nuestra propuesta de valor como de la información registrada en nuestro **feedback capture grid**. De esta forma, construirmos **tareas(tasks)** nuevas que resolverán problemas de diseño previos y mejoraran la calidad del sistema y la relación de este con los usuarios. Estas **tasks** vendrán recogidas en una **Task Matrix**.
 
-![Método UX](Herramientas/TaskMatrix.png)
+![Método UX](P2/Herramientas/TaskMatrix.png)
 
-[[Task Matrix]](TaskMatrix.pdf)
+[[Task Matrix]](P2/TaskMatrix.pdf)
 
 
 ![Método UX](img/labelling.png) 2.c Labelling
