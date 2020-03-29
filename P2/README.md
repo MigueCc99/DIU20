@@ -29,3 +29,10 @@
   Finalmente en cuanto a las ideas de los desarrolladores (en este caso, yo mismo las impongo), se pretende cohesionar de manera más elegante el frontend enlazando las funcionalidades de manera encadenada en forma de arbol. De esta manera, el usuario podrá navegar por la interfaz en sentido ascendente y descendente aumentando la comodidad y guiando al usuario de manera implícita. Por otro lado, diseñar una interfaz de chat(textual) para comunicar al cliente y al propietario independientemente de si este es usuario registrado o no. En caso de ser usuario registrado, poseerá mayores beneficios a la hora de comunicarse con el propietario. Como último punto, el sistema de reseñas considero que es una manera de permitir a los usuarios informarse y dar feedback sobre las experiencias de usuario a la hora de utilizar la aplicación y durante la gestión del proceso de alquiler.
 
 ##### 2. Tasks & Sitemap
+  En este punto del desarrollo del diseño, hacemos uso tanto de nuestra propuesta de valor como de la información registrada en nuestro **feedback capture grid**. De esta forma, construirmos **tareas(tasks)** nuevas que resolverán problemas de diseño previos y mejoraran la calidad del sistema y la relación de este con los usuarios. Estas **tasks** vendrán recogidas en una **Task Matrix**.
+
+  He escogido esta manera de representación para las tareas puesto que de tal forma, quedan recogidas en función de los grupos de usuarios. La combinación de grupo de usuario y tarea genera una frecuencia que indica el uso de esta por medio del usuario implicado. Teniendo en cuenta la importancia de la distinción de los grupos de usuario y su relación entre sí dentro del sistema, considero que esta es la mejor manera de enlazar las tareas y sus frecuencias. Esto permitirá determinar las tareas fielmente a su desarrollo en el sistema teniendo en cuenta la frecuencia de uso de estas por medio de los usuarios, que dan vida a su funcionalidad. Así mismo dará sentido a cada una de ellas y su desempeño en el sistema.
+
+  ![Método UX](Herramientas/TaskMatrix.png)
+
+  [[Task Matrix]](TaskMatrix.pdf)
