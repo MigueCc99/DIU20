@@ -36,3 +36,12 @@
   ![Método UX](Herramientas/TaskMatrix.png)
 
   [[Task Matrix]](TaskMatrix.pdf)
+
+##### 3. Labelling
+  Hemos identificado los términos para diálogo con el usuario que mostrará nuestra interfaz de usuario. Para identificarlos adecuadamente nos hemos basado en las tareas añadidas a nuestro sistema de la mano de un previo **feedback capture grid**, con el que hemos construido una **task matrix** que nos ha dado pie a identificar una serie de **términos de díalogo**. Esos términos de diálogo constituyen las nuevas implementaciones que se añadirán a la interfaz de usuario con el motivo de mejorar la experiencia del usuario en la misma y generar una gran mejoría tanto en el manejo de la misma como en el mantenimiento de esta.
+
+  Aquí tenemos los términos de diálogo:
+
+  ![Método UX](Herramientas/Labelling.png)
+
+  [[Labelling]](Labelling.pdf)
