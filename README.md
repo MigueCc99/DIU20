@@ -88,12 +88,11 @@ En este punto del desarrollo del diseño, hacemos uso tanto de nuestra propuesta
 
 ![Método UX](img/labelling.png) 2.c Labelling
 ----
+En este punto del diseño de nuestro sistema, hemos identificado los términos para diálogo con el usuario que mostrará nuestra interfaz de usuario. Para identificarlos adecuadamente deberemos describir su acción y su cometido. Es decir, lo que provoca a nivel sistema y a nivel de percepción del usuario sobre sus acciones.
 
->>> Identificar términos para diálogo con usuario
+![Método UX](P2/Herramientas/Labelling.png)
 
-Término | Significado
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+[[Labelling]](P2/Labelling.pdf)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
