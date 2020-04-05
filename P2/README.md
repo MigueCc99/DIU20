@@ -40,8 +40,19 @@
 ##### 3. Labelling
   Hemos identificado los términos para diálogo con el usuario que mostrará nuestra interfaz de usuario. Para identificarlos adecuadamente nos hemos basado en las tareas añadidas a nuestro sistema de la mano de un previo **feedback capture grid**, con el que hemos construido una **task matrix** que nos ha dado pie a identificar una serie de **términos de díalogo**. Esos términos de diálogo constituyen las nuevas implementaciones que se añadirán a la interfaz de usuario con el motivo de mejorar la experiencia del usuario en la misma y generar una gran mejoría tanto en el manejo de la misma como en el mantenimiento de esta.
 
-  Aquí tenemos los términos de diálogo:
+  - SITEMAP:
+
+  ![Método UX](Herramientas/Sitemap.png)
+
+  [[Sitemap]](Sitemap.pdf)
+
+  - LABELLING:
 
   ![Método UX](Herramientas/Labelling.png)
 
   [[Labelling]](Labelling.pdf)
+
+##### 4. Wireframe & User flow
+  El cometido de los wireframes es crear un diseño del layout para Web o Móvil en su defecto, de tal manera que se genere una simulación que nos permita organizar el layout final del sistema. Para ello hemos hecho uso de los Bocetos Lo_Fi.
+
+  [[Bocetos Lo_Fi]](BocetosLoFi.pdf)

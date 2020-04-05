@@ -1,0 +1,3 @@
+La documentación de la propuesta se encuentra tanto en los diversos pdf de manera individualizada como en la carpeta 
+de herramientas. En esta última podemos observar las imágenes *.png referentes a la propuesta. Todo queda recogido en
+los pdf's excepto los bocetos que se encuentran en P2/Herramientas/BocetosLoFi/.
