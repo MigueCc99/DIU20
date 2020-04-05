@@ -88,7 +88,15 @@ En este punto del desarrollo del diseño, hacemos uso tanto de nuestra propuesta
 
 ![Método UX](img/labelling.png) 2.c Labelling
 ----
-En este punto del diseño de nuestro sistema, hemos identificado los términos para diálogo con el usuario que mostrará nuestra interfaz de usuario. Para identificarlos adecuadamente deberemos describir su acción y su cometido. Es decir, lo que provoca a nivel sistema y a nivel de percepción del usuario sobre sus acciones.
+En este punto del diseño de nuestro sistema, hemos identificado los términos para diálogo con el usuario que mostrará nuestra interfaz de usuario. Para identificarlos adecuadamente deberemos describir su acción y su cometido. Es decir, lo que provoca a nivel sistema y a nivel de percepción del usuario sobre sus acciones. Para ello hemos desarrollado un **Sitemap** y propuesto un **Labelling** para sus elementos. Con esto generamos una organización lógica de la navegación y de los elementos de diseño de manera sólida.
+
+- SITEMAP:
+
+![Método UX](P2/Herramientas/Sitemap.png)
+
+[[Sitemap]](P2/Sitemap.pdf)
+
+- LABELLING:
 
 ![Método UX](P2/Herramientas/Labelling.png)
 
