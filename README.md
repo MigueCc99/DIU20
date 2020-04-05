@@ -105,8 +105,9 @@ En este punto del diseño de nuestro sistema, hemos identificado los términos p
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
+El cometido de los wireframes es crear un diseño del layout para Web o Móvil en su defecto, de tal manera que se genere una simulación que nos permita organizar el layout final del sistema. Para ello hemos hecho uso de los Bocetos Lo_Fi.
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación )
+[[Bocetos Lo_Fi]](P2/BocetosLoFi.pdf)
 
 
 ## Paso 3. Make (Prototyping)
