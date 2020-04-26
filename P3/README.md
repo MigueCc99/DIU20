@@ -56,5 +56,46 @@ El análisis competitivo es una herramienta la cuál estudiamos en la P1 y es re
 
 ![Método UX](Herramientas/CompetitiveAnalysisMM.png)
 
+La principal característica de este método es analizar aplicaciones similares para poder inspirarse y mejorar el futuro diseño en torno a la competencia del sector.
+
+En este caso, se basaron en la investigación de aplicaciones que incluyen características similares a las que pretenden implementar y clasificaron las mismas según las características que han recopilado. De esta manera organizarán estas por sus puntos fuertes y débiles. Esto les aportará información sobre la competencia y podrá dar ideas sobre un principio de diseño.
+
+De manera genérica todas las apps contienen un mapa interactivo con puntos de interés artísticos a visitar, algo imprescindible. De igual manera implementan un marco social para compartir experiencias culturales. Según su criterio faltó una sección de top picks/recomendaciones de usuarios. Finalmente todas las apps recogían su información de una base de datos repleta de información sobre los artistas y obras.
+
+##### Empathy Map
+
+De manera previa a pasar al marco del User Research se tuvo en cuenta un brainstorming que derivó en un Empathy Map. Este mapa fué usado para generar preguntas adecuadas en el proceso de User Research durante las entrevistas con usuarios potenciales. Todo este brainstorming derivó en:
+
+![Método UX](Herramientas/EmpathyMap.png)
+
+Este Empathy Map se divide en 4 áreas principales y deriva en puntos negativos y objetivos.
+
+Las 4 areas principales son:
+
+- Think & Feel: Determina lo que los usuarios piensan y sienten acerca del arte y las necesidades que estos sienten que deberían ser solventadas.
+
+- Hear: Pensamiento acerca de ser informados acerca de arte. Plantean los medios que les parecen útiles y los que les resultan incómodos para nutrirse de cultura.
+
+- See: Visión acerca del arte y de la interacción del entorno con el.
+
+- Say & Do?: ¿Qué es lo que estos hacen cuando interactuan con arte?
+
+Los puntos negativos y objetivos plantean:
+
+- Pain Points: Determina lo negativo del arte según varios puntos de vista y su experiencia de usuario.
+
+- Goals: Expone los objetivos desde los puntos de vista de la sociedad Londinense.
+
+Una vez revisados estos puntos referentes al mapa, sin entrar demasiado en detalle, comprobamos que definen correctamente el contexto incial del proyecto antes de su diseño y su potencial. Puesto que vemos desde una postura empática la situación actual con respecto al entorno artístico. Este estudio acompañado de una revision de usabilidad sería mucho más completo.
+
+Propongo una mejora con una ampliación del Desk Research & Analysis añadiendo una revisión de usabilidad. Esta propuesta se debe a que tenemos una gran fuente de información tras el desarrollo del empathy map, lo cuál nos puede llevar a generar una revisión de usabilidad certera que podrá llevar a un buen puerto a la aplicación sobretodo en la etapa de User Research.
+
+##### User Interviews
+
+En este caso, tras el desarrollo de una investigación inicial correcta, se pasa a un marco de entrevistas, en el cuál se le plantean las preguntas adecuadas a un grupo de personas acerca del proyecto, para tener un feedback tratable sobre el mismo. Esto no sería útil sin el uso de un buen empathy map que nos guíe a la hora de realizar las preguntas.
+
+El análisis etnográfico también nos ayuda a comprender el framework al que se enfrenta el proyecto, al fin y al cabo todo nuestro trabajo se basa en contentar a un cliente y dar la mejor experiencia de usuario posible, por lo tanto, adaptarse a la sociedad es más que imprescincible.
+
+
 
 
