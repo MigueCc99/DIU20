@@ -1,58 +1,38 @@
-## DIU - Practica2, entregables
+## DIU - Practica 3
 
-#### Índice
-- Malla receptora de información
-- Sitemap & Task flow
-- Labelling
-- Wireframe & User flow
+### ÍNDICE
+- 3.a Análisis de MuseMap
+- 3.b Propuesta de elemtnos de diseño o patrones a usar
+- 3.c Video UX Case Study
+- 3.d Documentación
+#### 3.a Análisis de MuseMap
 
-#### UX Design
-##### 1. FeedBack Capture Grid
+MuseMap Street Art App se conoce como una aplicación diseñada con el objetivo de solventar la curiosidad de la sociedad acerca del arte que le rodea. Trata de eliminar el desconocimiento sobre nuestro entorno y cubrir nuestra curiosidad buscando informarnos acerca de aquello que nos interesa.
 
-  En este apartado del diseño UX recabamos de manera específica en una **malla receptora de información (feedback capture grid)** la información obtenida a partir de la **investigación y análisis del diseño UX(UX Desk Research & Analisis)**. Esta técnica se basa en cubrir cuatro apartados:
+Principalmente el marco de trabajo de esta aplicación se desarrolla en el ámbito local de Londres, por lo tanto tendrá una relación directa con la sociedad Británica. Esto implica un desarrollo cultural específico dentro del marco de diseño del UX Case Study que nos disponemos a analizar.
 
-  - Aspectos positivos actualmente existentes en el diseño (elementos interesantes o relevantes).
-  - Críticas constructivas sobre los principales problemas de diseño.
-  - Preguntas al usuario para mejorar el sistema entorno a las necesidades de los visitantes y usuarios del sistema (a partir de las personas ficticias de la P1).
-  - Ideas de mejora (equipo de desarrollo), que tienen más que ver con la parte de la implementación.
+##### Análisis de los métodos UX (MuseMap)
 
-  ![Método UX](Herramientas/FeedBackCaptureGrid.png)
+Para analizar individualmente de manera fiel los métodos UX usados en el desarrollo de MuseMap, debemos conocer las pretensiones de los creadores y de los clientes de la app (ciudad de Londres). 
 
-  [[FeedBack Capture Grid]](FeedBackCaptureGrid.pdf)
+Principalmente, la idea con este proyecto era culturizar tanto a los visitantes como a los locales de la ciudad acerca del arte que esta alberga, crear interés entre la gente sobre el mismo. De esta manera, se conseguiría consagrar a londres en la escena artística como una de las ciudades mas cotizadas si todo salía según lo esperado. Finalmente, promover el arte público y potenciar el arte en la sociedad Londinense.
 
-  **PROPUESTA DE VALOR**
+Una vez presentada la oportunidad de dar soporte a esta idea, se plantearon varios proyectos en los que trabajar para darle forma. Durante este brain storming se recogieron ideas como:
 
-  Como propuesta de valor a partir del FeedBackCaptureGrid generaremos una serie de implementaciones en el sistema que iremos desarrollando en posteriores apartados en forma de tareas y arquitectura del diseño. Todas estas modificaciones seguirán un patrón que favorezca el minimalismo del sistema y al mismo tiempo aportar funcionalidades concretas y especificas para guiar al usuario independientemente de su experiencia de manera satisfactoria por la interfaz.
+- Apps interactivas para conocer la localización de las piezas artísticas en la ciudad y marcarlas para futuras visitas.
+- Juegos para incentivar a la gente a descubrir el arte Londinense.
+- Apps que permitan al usuario conocer más información acerca del arte que se exhibe en las calles.
+- Apps que incluyan conexiones sociales multimedia para compartir multimedia.
 
-  En función de las preguntas de los usuarios generaremos mayor vínculo entre los usuarios que pretenden utilizar el sistema para alquilar inmuebles como los que pretenden gestionar sus propios inmuebles a través de la plataforma. Además de esto, maximizar el aprendizaje de uso de la interfaz de manera sencilla e intuitiva para los mismos. Finalmente satisfacer de manera más completa las inquietudes del visitante/usuario registrado que se proponga alquilar un inmueble, con nuevas opciones que vinculen información relevante sobre el inmueble y alrededores y permitir al interesado elegir con comodidad entre las opciones visibles.
+Algunas de estas ideas estaban pensadas para complementarse, como las dos últimas.
 
-  Finalmente en cuanto a las ideas de los desarrolladores (en este caso, yo mismo las impongo), se pretende cohesionar de manera más elegante el frontend enlazando las funcionalidades de manera encadenada en forma de arbol. De esta manera, el usuario podrá navegar por la interfaz en sentido ascendente y descendente aumentando la comodidad y guiando al usuario de manera implícita. Por otro lado, diseñar una interfaz de chat(textual) para comunicar al cliente y al propietario independientemente de si este es usuario registrado o no. En caso de ser usuario registrado, poseerá mayores beneficios a la hora de comunicarse con el propietario. Como último punto, el sistema de reseñas considero que es una manera de permitir a los usuarios informarse y dar feedback sobre las experiencias de usuario a la hora de utilizar la aplicación y durante la gestión del proceso de alquiler.
+Una vez estudiadas las oportunidades, pasaron al marco de Usuario. Para ello tomaron en cuenta un User Research o también conocido como Ethnography research.
 
-##### 2. Tasks & Sitemap
-  En este punto del desarrollo del diseño, hacemos uso tanto de nuestra propuesta de valor como de la información registrada en nuestro **feedback capture grid**. De esta forma, construirmos **tareas(tasks)** nuevas que resolverán problemas de diseño previos y mejoraran la calidad del sistema y la relación de este con los usuarios. Estas **tasks** vendrán recogidas en una **Task Matrix**.
+##### Ethnography Research
 
-  He escogido esta manera de representación para las tareas puesto que de tal forma, quedan recogidas en función de los grupos de usuarios. La combinación de grupo de usuario y tarea genera una frecuencia que indica el uso de esta por medio del usuario implicado. Teniendo en cuenta la importancia de la distinción de los grupos de usuario y su relación entre sí dentro del sistema, considero que esta es la mejor manera de enlazar las tareas y sus frecuencias. Esto permitirá determinar las tareas fielmente a su desarrollo en el sistema teniendo en cuenta la frecuencia de uso de estas por medio de los usuarios, que dan vida a su funcionalidad. Así mismo dará sentido a cada una de ellas y su desempeño en el sistema.
 
-  ![Método UX](Herramientas/TaskMatrix.png)
 
-  [[Task Matrix]](TaskMatrix.pdf)
 
-##### 3. Labelling
-  Hemos identificado los términos para diálogo con el usuario que mostrará nuestra interfaz de usuario. Para identificarlos adecuadamente nos hemos basado en las tareas añadidas a nuestro sistema de la mano de un previo **feedback capture grid**, con el que hemos construido una **task matrix** que nos ha dado pie a identificar una serie de **términos de díalogo**. Esos términos de diálogo constituyen las nuevas implementaciones que se añadirán a la interfaz de usuario con el motivo de mejorar la experiencia del usuario en la misma y generar una gran mejoría tanto en el manejo de la misma como en el mantenimiento de esta.
 
-  - SITEMAP:
 
-  ![Método UX](Herramientas/Sitemap.png)
 
-  [[Sitemap]](Sitemap.pdf)
-
-  - LABELLING:
-
-  ![Método UX](Herramientas/Labelling.png)
-
-  [[Labelling]](Labelling.pdf)
-
-##### 4. Wireframe & User flow
-  El cometido de los wireframes es crear un diseño del layout para Web o Móvil en su defecto, de tal manera que se genere una simulación que nos permita organizar el layout final del sistema. Para ello hemos hecho uso de los Bocetos Lo_Fi.
-
-  [[Bocetos Lo_Fi]](BocetosLoFi.pdf)
