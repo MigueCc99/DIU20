@@ -13,18 +13,52 @@ Miembros
  * :bust_in_silhouette:   Miguel Ángel Campos Cubillas     :octocat:
 
 -----
+# UX Case Study
 
-En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist)
+Vivimos en un mundo que se encuentra en estado frenético, y nosotros como parte de el estamos en constante movimiento, cambios en todos los aspectos de nuestro ser. En muchas ocasiones nos encontramos con la necesidad de echar raices en otro lugar, o simplemente necesitamos desplazarnos durante un periodo de tiempo a una localización diferente. 
 
+Ahí es donde entra la siguiente pregunta, ¿Te gustaría encontrar el lugar perfecto para vivir?
 
-Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
+## Introducción
 
-# Proceso de Diseño
+>¿Cómo encuentro la mejor opción de alojamiento disponible?
 
-## Paso 1. UX Desk Research & Analisis
+>> Esta es la pregunta a la cuál queremos dar respuesta con este proyecto de diseño. El principal incentivo de este diseño de sistema es permitir a cualquier usuario encontrar el alojamiento ideal en un entorno familiar para evitar que llegue a plantearse la misma pregunta.
+
+## Objetivos
+
+- Estudiar varios nichos de negocio en el entorno del sector del alojamiento y generar una propuesta más atractiva de las existentes.
+- Generar un diseño limpio y eficiente en un entorno fácil de usar y con múltiples herramientas de búsqueda.
+- Ayudar en el plano social a la gente a encontrar ofertas de alojamiento afines a sus necesidades.
+
+## Esquema incial
+
+Se han presentado esquemas genéricos como:
+
+- App móvil interactiva que permita el contacto social en el entorno de compartir alojamiento.
+
+- Plataforma web que proponga alternativas para incluir ofertas de alojamiento.
+
+## Estudio del contexto
+
+Principalmente los usuarios que utilizan esta clase de sistemas, buscan una solución rápida y eficaz a su problema de búsqueda de alojamiento.
+
+Los puntos clave son:
+- Variedad de filtros y opciones en los sistemas de búsqueda.
+- Contacto sistemático con el propietario del inmueble.
+- Información necesaria y fiel.
+- Facilidad y seguridad en pagos y acuerdos.
+- Navegabilidad sencilla y rápida por menus contextuales.
+
+## UX Desk Research & Analisis
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
+
+Para comenzar con el diseño del sistema de comparto de aplicaciones, deberemos estudiar el entorno competitivo en el que se encontrará la aplicación al salir al mercado. 
+
+Existen varios sistemas de comparto de alojamiento ya en funcionamiento en la red, con sus correspondientes estructuras web y de tipo app movil. En este análisis previo, vamos a discernir entre las funcionalidades genéricas y escoger la más afin a nuestro objetivo, la cuál seguiremos de ejemplo para no "reinventar la rueda" y crear una buena propuesta de valor en el futuro y dar un servicio correcto.
+
 Las aplicaciones seleccionadas en este proceso de análisis de competencia se basan en plataformas que hacen de intermediario entre un usuarios que solicitan rentar alojamientos y usuarios que requieren alquilar sus propios bienes.
 
 Basan su sistema en un portal de búsqueda por filtros (de búsqueda), lo cuál permite a los usuarios encontrar sus alojamientos según preferencias personales.
@@ -33,7 +67,11 @@ Basan su sistema en un portal de búsqueda por filtros (de búsqueda), lo cuál 
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
-Durante el proceso de creación de las personas, he decidido tomar la iniciativa de crear dos perfiles humanos muy divergentes con el motivo de poder explorar por experiencias de usuario desafiantes para el sistema.
+Durante el proceso de creación de las personas, he decidido tomar la iniciativa de crear dos perfiles humanos muy divergentes con el motivo de poder explorar por experiencias de usuario desafiantes para el sistema. Esta decisión dará pie a explorar ramas del sistema que podemos no haber tenido en cuenta a la hora de pensar en los puntos clave de la funcionalidad del sistema.
+
+Este punto es sumamente importante por lo previamente expuesto, ya que el hecho de crear perfiles potenciales de casos opuestos de usuarios del sistema, permitirá una adaptabilidad mayor, y con una calidad de diseño de calidad.
+
+En primer lugar, tenemos un perfil de un hombre no adaptado a la tecnología que requiere del uso de una herramienta como la nuestra y se encuentra en una situación en la que requiere de ayuda externa. Por otra parte, el segundo perfil, lo ocupa una mujer adaptada a la comunidad tecnológica y con otras inquietudes muy dispares. Esto nos permite ahondar en detalles del sistema diagonales que no se podrían visualizar de manera conjunta
 
 ###### JOSE LUÍS TORRES
 ![Método UX](P1/p1_jose_luis_torres.png)
@@ -45,7 +83,12 @@ Durante el proceso de creación de las personas, he decidido tomar la iniciativa
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
-Estas experiencias de usuario han sido escogidas puesto que cumplen con similitudes en cuanto a problemas comunes a la hora de gestionar acciones en entornos como el que nos disponemos a analizar, pero desde puntos de vista muy distantes en cuanto a uso de la tecnología se refiere.
+
+Estos User Journey Map representan dos escenarios en este caso, en los que un usuario podría interactuar con nuestro sistema, en resumidas cuentas evalua el estado emocional que estos usuarios sufren al pasar por las distintas etapas en las que este escenario los envuelve.
+
+Los escenarios escogidos en los User Journey Map deben de ser fieles a las características de las personas que se encuentran afectadas por ellos, puesto que estos van a ser un gran indicativo de usabilidad del sistema. 
+
+El desarrollo del "mood" de los participantes, determinará la situación de nuestro sistema en el entorno y los escenarios cotidianos en los que entra en acción. Lo que pretendemos con estos User Journey Map es generar un buen "mood" en el cliente durante el proceso de uso del sistema en su entorno, pues en ese caso, favorecerá el uso del sistema de manera sistemática.
 
 ###### EXPERIENCIA DE USUARIO 1 (JOSE LUÍS TORRES)
 ![Método UX](P1/jm1_jose_luis_torres.PNG)
@@ -66,7 +109,9 @@ Estas experiencias de usuario han sido escogidas puesto que cumplen con similitu
 #### Comentario sobre la valoración:  (60-120 caracteres)
 Según la valoración de la revisión de usabilidad podemos determinar que estamos ante un sistema que cumple correctamente con sus requerimientos principales. Tal es así que podría llegar a satisfacer a amplia gama de usuarios, sin embargo, tiene puntos importantes a mejorar.
 [[Ver más]](P1/README.md)
-## Paso 2. UX Design
+
+Principalmente el sistema debería de ser más estructurado
+## UX Design
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
@@ -110,88 +155,3 @@ El cometido de los wireframes es crear un diseño del layout para Web o Móvil e
 [[Bocetos Lo_Fi]](P2/BocetosLoFi.pdf)
 
 
-## Paso 3. Make (Prototyping)
-
-
-![Método UX](img/moodboard.png) 3.a Moodboard
------
-
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard)
-
-![Método UX](img/landing-page.png)  3.b Landing Page
-----
-
-
->>> Plantear Landing Page
-
-![Método UX](img/guidelines.png) 3.c Guidelines
-----
-
->>> Estudio de Guidelines y Patrones IU a usar
-
-![Método UX](img/mockup.png)  3.d Mockup
-----
-
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
-
-
-## Paso 4. UX Check (Usability Testing)
-
-
-![Método UX](img/ABtesting.png) 4.a A/B Testing
-----
-
-
->>> Comprobacion de asignaciones para A/B Testing. Asignaciones https://github.com/mgea/DIU19/blob/master/ABtesting.md
-
->>>> Práctica A:
-
-
-![Método UX](img/usability-testing.png) 4.b User Testing
-----
-
->>> Usuarios para evaluar prácticas
-
-
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B
-
-
-![Método UX](img/Survey.png). 4.c Cuestionario SUS
-----
-
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
-
->>> Adjuntar captura de imagen con los resultados + Valoración personal
-
-
-![Método UX](img/usability-report.png) 4.c Usability Report
-----
-
->> Añadir report de usabilidad para práctica B
-
-
-
-## Paso 5. Evaluación de Accesibilidad
-
-
-![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
-----
-
->>> Indica qué pretendes evaluar (de accesibilidad) y qué resultados has obtenido + Valoración personal
-
->>> Evaluación de la Accesibilidad (con simuladores o verificación de WACG)
-
-
-
-## Conclusión / Valoración de las prácticas
-
-
->>> (90-150 caracteres) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos
