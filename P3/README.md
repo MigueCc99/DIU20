@@ -161,7 +161,7 @@ A la hora de plantear el problema de manera formal se define como:
 
 Después de formular el planteamiento del problema comenzamos con el proceso de diseño. Para comenzar con el mismo, se planteó definir el "user flow" enfocado en Tom usando la app en una situación concreta.
 
-![Método UX](Herramientas/UserFLow.png)
+![Método UX](Herramientas/UserFlow.png)
 
 En este caso es conveniente desarrollar un flujo de usuario referente a la aplicación en un contexto determinado. Esto nos ayudará a profundizar en un escenario que incluya nuestro producto y ver como se desenvuelve en ese entorno bajo la percepción del usuario que permite el "flow". 
 
