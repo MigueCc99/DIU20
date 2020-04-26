@@ -204,4 +204,12 @@ Como ejemplo de una buena praxis del minimalismo en el diseño de apps y página
 ###### EJEMPLO PÁGINA WEB
 ![Método UX](Herramientas/PaginaWebEjemplo.png)
 
+#### CUENTA TU HISTORIA
 
+Enlace a mi historia: https://drive.google.com/file/d/1s8LUc9RVgUBrN93yoQVjNRr3icjRLVMD/view?usp=sharing
+
+#### CONCLUSIÓN
+
+A modo de conclusión sobre la realización de la P3 cabe destacar la importancia de analizar el proceso de diseño de un sistema en proceso de desarrollo como ha sido el de MuseMap, pues este análisis me ha servido de ayuda para ver desde una perspectiva más abstracta la manera de relizar una buena descripción de un UX Case Study. En cuanto a la investigación de patrones de diseño y guidelines para continuar con mi proyecto, he de decir que no ha sido un problema puesto que tenía las ideas en mente gracias al desarrollo previo del uso de las metodologías de "Research/Design...". Sin embargo, he visto ambigüo el guión y en ciertas circunstancias me he guiado por la intuición.
+
+Finalmente, a la hora de modificar la estructura del Readme.md principal para convertirlo en un UX Case Study, no ha sido un problema. Sin embargo, he mantenido una estructura simple y con ampliaciones con [Leeme] a lo largo del fichero, para no sobrecargar las descripciones. De la misma manera, me ha costado resumir mi UX Case Study en 90 segundos, de hecho me he extendido bastante más.
