@@ -2,7 +2,7 @@
 
 ### ÍNDICE
 - 3.a Análisis de MuseMap
-- 3.b Propuesta de elemtnos de diseño o patrones a usar
+- 3.b Investigación de patrones de diseño y guidelines
 - 3.c Video UX Case Study
 - 3.d Documentación
 #### 3.a Análisis de MuseMap
@@ -96,6 +96,112 @@ En este caso, tras el desarrollo de una investigación inicial correcta, se pasa
 
 El análisis etnográfico también nos ayuda a comprender el framework al que se enfrenta el proyecto, al fin y al cabo todo nuestro trabajo se basa en contentar a un cliente y dar la mejor experiencia de usuario posible, por lo tanto, adaptarse a la sociedad es más que imprescincible.
 
+##### Affinity Mapping
 
+Durante este proceso, se plantea recoger la información generada para crear afinidad entre la idea original del proyecto y la percepción adquirida tras el estudio del marco de usuario.
+
+Todas esas ideas fragmentadas son conectadas según sus diferencias y finalmente crean una base de proyecto afín a lo que el desarrollador busca.
+
+La conclusión del mapa de afinidad determina las características que previamente no tuvieron en cuenta al desarrollar el planteamiento original y complementan este modificandolo hasta cumplir con las expectativas de ambas partes interesadas.
+
+##### User Personas 
+
+En el bloque de generación de personas, se plantearon dos perfiles para identificar los objetivos y los puntos débiles del proyecto de manera más específica. Personalmente comprendo su importancia, pues permiten ahondar más individualmente características especificas que no serían evaluables desde un marco global. 
+
+Con un marco global me refiero al framework que trabajan métodos como el empathy map, pues trabajan de manera que se proyecta la vision desde una perspectiva muy lejana al la interacción.
+
+Las personas escogidas en este método fueron:
+
+![Método UX](Herramientas/tom.png)
+Primary User Persona, Tom
+
+![Método UX](Herramientas/jan.png)
+Secondary User Persona, Jan
+
+
+##### User Goals & User Pain Points
+
+Tras generar los perfiles de usuarios pertinentes, se busca tomar en cuenta los objetivos de ambos en el marco de trabajo en el que nos encontramos y sobre todo enlazar sus posibles objetivos relacionados con nuestro proyecto.
+
+En el caso de los pain points, buscamos aquello que los usuarios no buscan a la hora de interactuar con el marco de trabajo en el que se desarrolla la aplicación.
+
+El planteamiento seleccionado por parte de los diseñadores de esta herramienta me parece excepcional, pues en este caso se premia mucho la capacidad del sistema para satisfacer su usabilidad. Si no tiene una capacidad de encontrar hueco entre las aplicaciones rutinarias de los usuarios, no tendrá ningún éxito. Por lo tanto enfocar los puntos objetivo como los puntos a evitar es fundamental a la hora de plantear un user jouney.
+
+De hecho, estos planteamientos hacen referencia a los métodos previos utilizados, en los cuales tomabamos estos goals y pain points como principal finalidad.
+
+##### User Journey
+
+El User Journey plantea un supuesto de experiencia de usuario para hacer un seguimiento según unos User persona determinados y atravesar por diversas fases orientadas al marco de trabajo en el que estamos diseñando.
+
+![Método UX](Herramientas/UserJourney.png)
+
+En este caso tomaron en cuenta a Tom para generar el User Journey. Yo sin embargo considero que sería mejor diagonalizar los User Journey en cuanto a experiencia y pericia con el marco de trabajo. De esta manera abarcaríamos más terrenos y podríamos llegar a especificar más sobre funcionalidades del mismo en un futuro.
+
+##### Experience Map
+
+Como podemos comprobar se trata de una simplificación del método User Journey Map, pues por una parte describen un User Journey y por otra parte examinan la experiencia de usuario y su "mood" durante el proceso de "journey". 
+
+![Método UX](Herramientas/ExperienceMap.png)
+
+Bajo mi punto de vista presenta una estructura demasiado dispersa y no permite una profundización óptima. Yo plantearía un User Journey Map que describiese una experiencia de usuario real en la cual, nuestro proyecto tuviese impacto, para comprender el nicho de uso que este posee y evaluar la experiencia de usuario en diversos escenarios teniendo en cuenta los User Persona descritos. De ahí la importancia de crear dos o más perfiles diagonalmente distintos.
+
+##### User Scenarios 
+
+User Scenarios se postula como una herramienta para determinar unos cuantos más escenarios para desarrollar la app con más información previa sobre futuribles escenarios y su relacion con los usuarios.
+
+Esto ayuda a conocer la solución del problema de alcanzar los objetivos de usuario sin aumentar los puntos negativos de la misma bajo las experiencias de usuario. De esta manera se exploran nuevos casos y se reducen las posibilidades de incumplir con las necesidades de los usuarios.
+
+##### Problem Statement
+
+A la hora de plantear el problema de manera formal se define como:
+
+>> People who live in or visit the City of London need a way to engage more with public art because their engagement is currently short lived and shallow.
+
+##### User Flow
+
+Después de formular el planteamiento del problema comenzamos con el proceso de diseño. Para comenzar con el mismo, se planteó definir el "user flow" enfocado en Tom usando la app en una situación concreta.
+
+![Método UX](Herramientas/UserFLow.png)
+
+En este caso es conveniente desarrollar un flujo de usuario referente a la aplicación en un contexto determinado. Esto nos ayudará a profundizar en un escenario que incluya nuestro producto y ver como se desenvuelve en ese entorno bajo la percepción del usuario que permite el "flow". 
+
+Sin embargo, yo lo adjuntaría al mapa de experiencia de usuario y así de esa manera llegaría al mismo tiempo a una conclusión en torno a la experiencia posible que podría vivir ese usuario en esa situación determinada. 
+
+#### 3.b Investigación de patrones de diseño y guidelines
+
+En este punto del diseño de nuestro servicio, debemos tomar decisiones acerca de patrones de diseño y pautas(guidelines) a aplicar en el prototipado de alta definición del proyecto.
+
+Desde el planteamiento inicial del problema, Competitive Analysis y demás estados de diseño he considerado como prioritario un diseño minimalista centrado en la facilidad y accesibilidad. Esto según mi criterio se adapta a todo tipo de usuario, puesto que pone a su disposición una amplia gama de opciones sin abrumar su percepción.
+
+Puesto que nos encontramos en una situación de decidir el camino que tomará el diseño de la app, es necesario ir en búsqueda de elementos minimalistas que proporcionen la funcionalidad suficiente en un entorno que siga un diseño estructurado y simplista.
+
+En primer lugar, el diseño global de la aplicación seguirá un patrón de diseño por capas o niveles. Esta decisión se basa en la necesidad de mantener una estructura ordenada que guie al usuario entre pestañas minimalistas que le aporten la información y acciones necesarias en cada instancia del programa. La forma más limpia de conseguir esto es tomar un diseño por niveles.
+
+###### DISEÑO POR NIVELES
+![Método UX](Herramientas/DiseñoXNiveles.png)
+
+Por otra parte sería interesante implementar un diseño de "Read More" para las secciones textuales que lo requieran, sobre todo las pertenecientes a páginas intermedias de selección en las que se le indica resumidamente al usuario las acciones a llevar a cabo. De esta manera continuaremos manteniendo la estructura minimalista y eficiente. Aparte de esto, mantendremos la estructura ordenada para evitar abrumar con exceso de información y crearemos más cohesión entre información.
+
+###### READ MORE
+![Método UX](Herramientas/ReadMore.png)
+
+En cuanto al buscador, mantendremos un diseño limpio y sencillo en el cual solo se mostrará una barra simple donde introducir texto, con una opción de menú que abre un abanico de opciones de filtro. De esta manera todo lo referente a botoneras y espacios de búsqueda lo mantendremos como abanicos de opciones que simplificaran el diseño y evitaran diferir del resto de información.
+
+###### BUSCADOR
+![Método UX](Herramientas/buscador.png)
+
+Finalmente en cuanto al diseño global de la aplicación tendremos en cuenta iconos, formatos de texto e imágenes que evoquen minimalismo y agraden a la vista. La finalidad de las herramientas textuales y de imagen es captar la atención del usuario y mantenerlo pendiente de toda la información procedente de su monitor. Al fin y al cabo el ser humano se guía mucho por la apariencia visual y la estructuración del contenido. Las interfaces limpias y sencillas suelen ser muy agradables de manejar
+
+###### FUENTES MINIMALISTAS
+![Método UX](Herramientas/FuenteMinimalista1.png)
+![Método UX](Herramientas/FuenteMinimalista2.png)
+
+###### ICONOS MINIMALISTAS
+![Método UX](Herramientas/IconosMinimalista.png)
+
+Como ejemplo de una buena praxis del minimalismo en el diseño de apps y páginas web, tenemos este ejemplo:
+
+###### EJEMPLO PÁGINA WEB
+![Método UX](Herramientas/PaginaWebEjemplo.png)
 
 
