@@ -52,7 +52,7 @@ Los puntos clave son:
 
 ## UX Desk Research & Analisis
 
-![Método UX](img/Competitive.png) 1.a Competitive Analysis
+![Método UX](img/Competitive.png) Competitive Analysis
 -----
 
 Para comenzar con el diseño del sistema de comparto de aplicaciones, deberemos estudiar el entorno competitivo en el que se encontrará la aplicación al salir al mercado. 
@@ -65,7 +65,7 @@ Basan su sistema en un portal de búsqueda por filtros (de búsqueda), lo cuál 
 
 [[Mostrar más sobre el: Análisis de Competencia]](P1/README.md)
 
-![Método UX](img/Persona.png) 1.b Persona
+![Método UX](img/Persona.png) Personas
 -----
 Durante el proceso de creación de las personas, he decidido tomar la iniciativa de crear dos perfiles humanos muy divergentes con el motivo de poder explorar por experiencias de usuario desafiantes para el sistema. Esta decisión dará pie a explorar ramas del sistema que podemos no haber tenido en cuenta a la hora de pensar en los puntos clave de la funcionalidad del sistema.
 
@@ -81,7 +81,7 @@ En primer lugar, tenemos un perfil de un hombre no adaptado a la tecnología que
 ![Método UX](P1/p2_julia_rodriguez.png)
 [[Ver más sobre: Julia]](P1/p2_julia_rodriguez.png)
 
-![Método UX](img/JourneyMap.png) 1.c User Journey Map
+![Método UX](img/JourneyMap.png) User Journey Map
 ----
 
 Estos User Journey Map representan dos escenarios en este caso, en los que un usuario podría interactuar con nuestro sistema, en resumidas cuentas evalua el estado emocional que estos usuarios sufren al pasar por las distintas etapas en las que este escenario los envuelve.
@@ -98,31 +98,38 @@ El desarrollo del "mood" de los participantes, determinará la situación de nue
 ![Método UX](P1/jm2_julia_rodriguez.PNG)
 [[Ver más sobre: Experiencia de Usuario 2]](P1/jm2_julia_rodriguez.PNG)
 
-![Método UX](img/usabilityReview.png) 1.d Usability Review
+![Método UX](img/usabilityReview.png) Usability Review
 ----
 ### Revisión de usabilidad:
 
-#### Enlace al documento:  (sube a github el xls/pdf)
+A la hora de tener en cuenta la capacidad de usabilidad que tiene nuestro sistema, hacemos uso del método estructurado llamado Usabitily Review, el cuál evalua el sistema en función de principios de usabilidad y su buena praxis.
+
+Es una manera de poner a prueba de manera "teórica" un sistema tras haberlo sometido a pruebas "empíricas" con otras metodologías. Esto permite generar una aproximación de los puntos débiles del diseño y encontrar las partes a perfeccionar.
+
 [[Documento de revisión de usabilidad]](P1/Usability-review-template.xlsx)
 #### Valoración final (numérica):
 >>> - 76
-#### Comentario sobre la valoración:  (60-120 caracteres)
+
 Según la valoración de la revisión de usabilidad podemos determinar que estamos ante un sistema que cumple correctamente con sus requerimientos principales. Tal es así que podría llegar a satisfacer a amplia gama de usuarios, sin embargo, tiene puntos importantes a mejorar.
 [[Ver más]](P1/README.md)
 
 Principalmente el sistema debería de ser más estructurado
 ## UX Design
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
+![Método UX](img/feedback-capture-grid.png) Feedback Capture Grid
 ----
 ![Método UX](P2/Herramientas/FeedBackCaptureGrid.png)
 
+En este punto del sistema, tras la etapa de investigación y análisis del sistema, entra en juego el "Feedback Capture Grid". Este método es una manera estructurada de organizar el "feedback" que recogemos de la fase de investigación y análisis del sistema.
+
+Es una forma de capturar el feedback en la etapa de diseño y en etapas posteriores en función de la experiencia de los usuarios.
+
 [[FeedBack Capture Grid]](P2/FeedBackCaptureGrid.pdf)
 
-- Propuesta de Valor :
-  - La propuesta de valor que propongo para nuestro proyecto es crear un entorno minimalista y conciso con gran adaptabilidad tanto para nuevos usuarios como experimentados. Además de esto generar un sitema de feedback entre los componentes del sistema. Esto se consigue conectando desde los stakeholders del sistema hasta los visitantes (usuarios no registrados) del mismo.
+## Propuesta de Valor :
+  - La propuesta de valor que propongo para nuestro proyecto es crear un entorno minimalista y conciso con gran adaptabilidad tanto para nuevos usuarios como experimentados. Además de esto generar un sitema de feedback entre los componentes del sistema. Esto se consigue conectando desde los stakeholders del sistema hasta los visitantes (usuarios no registrados) del mismo. 
 
-![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap
+![Método UX](img/Sitemap.png) Tasks & Sitemap
 -----
 En este punto del desarrollo del diseño, hacemos uso tanto de nuestra propuesta de valor como de la información registrada en nuestro **feedback capture grid**. De esta forma, construirmos **tareas(tasks)** nuevas que resolverán problemas de diseño previos y mejoraran la calidad del sistema y la relación de este con los usuarios. Estas **tasks** vendrán recogidas en una **Task Matrix**.
 
@@ -131,9 +138,9 @@ En este punto del desarrollo del diseño, hacemos uso tanto de nuestra propuesta
 [[Task Matrix]](P2/TaskMatrix.pdf)
 
 
-![Método UX](img/labelling.png) 2.c Labelling
+![Método UX](img/labelling.png) Labelling
 ----
-En este punto del diseño de nuestro sistema, hemos identificado los términos para diálogo con el usuario que mostrará nuestra interfaz de usuario. Para identificarlos adecuadamente deberemos describir su acción y su cometido. Es decir, lo que provoca a nivel sistema y a nivel de percepción del usuario sobre sus acciones. Para ello hemos desarrollado un **Sitemap** y propuesto un **Labelling** para sus elementos. Con esto generamos una organización lógica de la navegación y de los elementos de diseño de manera sólida.
+A partir del diseño de nuestro sistema, hemos identificado los términos para diálogo con el usuario que mostrará nuestra interfaz de usuario. Para identificarlos adecuadamente deberemos describir su acción y su cometido. Es decir, lo que provoca a nivel sistema y a nivel de percepción del usuario sobre sus acciones. Para ello hemos desarrollado un **Sitemap** y propuesto un **Labelling** para sus elementos. Con esto generamos una organización lógica de la navegación y de los elementos de diseño de manera sólida.
 
 - SITEMAP:
 
@@ -148,7 +155,7 @@ En este punto del diseño de nuestro sistema, hemos identificado los términos p
 [[Labelling]](P2/Labelling.pdf)
 
 
-![Método UX](img/Wireframes.png) 2.d Wireframes
+![Método UX](img/Wireframes.png) Wireframes
 -----
 El cometido de los wireframes es crear un diseño del layout para Web o Móvil en su defecto, de tal manera que se genere una simulación que nos permita organizar el layout final del sistema. Para ello hemos hecho uso de los Bocetos Lo_Fi.
 
